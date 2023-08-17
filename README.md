@@ -1,5 +1,2 @@
-# hello_world
-my first repository
-My name is Moses kolleh
-Aged 021 years
-From Sierra Leone
+## Tools for Data Science course by IBM 
+This repositorry contain the assignment from the course [Tools for Data Science]([link URL](https://www.coursera.org/learn/open-source-tools-for-data-science)https://www.coursera.org/learn/open-source-tools-for-data-science) by IBM
